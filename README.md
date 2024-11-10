@@ -37,7 +37,7 @@ The Employee Management System is a web application that streamlines employee re
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Sathish14325/employee-management-system.git)
    cd employee-management-system
 
 2. **Install Dependencies**
