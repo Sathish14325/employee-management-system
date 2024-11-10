@@ -35,7 +35,26 @@ The Employee Management System is a web application that streamlines employee re
 
 ## Installation and Setup
 
-1. **Clone the Repository:**
+1. **Clone the Repository**
    ```bash
    git clone <repository-url>
    cd employee-management-system
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+    cd client
+    npm install
+3. **Environment Setup**
+   - Set up environment variables for the backend:
+   ```bash
+     MONGO_URI=<Your MongoDB URI>
+    JWT_SECRET=<Your JWT Secret>
+4. **Run the Application**
+   ```bash
+   npm run dev
+
+
+## Screenshots
+
+
