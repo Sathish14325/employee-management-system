@@ -42,6 +42,7 @@ The Employee Management System is a web application that streamlines employee re
 
 2. **Install Dependencies**
    ```bash
+   cd server
    npm install
     cd client
     npm install
@@ -53,8 +54,13 @@ The Employee Management System is a web application that streamlines employee re
 4. **Run the Application**
    ```bash
    npm run dev
+   npm start
 
+## Conclusion
 
-## Screenshots
+The Employee Management System is a comprehensive solution for managing employee records efficiently. By leveraging the MERN stack and implementing robust authentication and authorization with JWT, this application ensures data security while providing a seamless user experience. The admin-only access to sensitive features, along with responsive design, theme toggling, and search functionality, makes this system versatile and user-friendly. 
+
+This project demonstrates the potential of MERN stack applications in creating scalable, secure, and interactive web applications suited for real-world use cases. Future enhancements could include additional user roles, advanced analytics, and integration with third-party services to extend its functionality even further.
+
 
 
