@@ -56,6 +56,17 @@ The Employee Management System is a web application that streamlines employee re
    npm run dev
    npm start
 
+To explore the app, please log in with the following credentials:
+
+Email: admin@gmail.com
+
+Password: 1234
+
+Email: sathish@gmail.com
+password: 123456
+
+
+
 ## Conclusion
 
 The Employee Management System is a comprehensive solution for managing employee records efficiently. By leveraging the MERN stack and implementing robust authentication and authorization with JWT, this application ensures data security while providing a seamless user experience. The admin-only access to sensitive features, along with responsive design, theme toggling, and search functionality, makes this system versatile and user-friendly. 
