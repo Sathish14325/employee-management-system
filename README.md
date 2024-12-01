@@ -58,9 +58,9 @@ The Employee Management System is a web application that streamlines employee re
 
 To explore the app, please log in with the following credentials:
 
-Email: admin@gmail.com
+Email: admin1@gmail.com
 
-Password: 1234
+Password: 12345
 
 Email: sathish@gmail.com
 password: 123456
